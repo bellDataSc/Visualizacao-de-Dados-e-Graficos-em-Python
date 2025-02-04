@@ -22,7 +22,7 @@ Espero que este conteúdo seja útil para você.
 Aqui estão alguns exemplos dos gráficos que você encontrará no notebook:
 
 ### Gráfico de Linha com Matplotlib
-![Gráfico de Linha](https://via.placeholder.com/600x400.png?text=Gráfico+de+Linha+Matplotlib)
+![Gráfico de Linha](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/main/Matplotlib.py)
 *(Imagem gerada com Matplotlib)*
 
 ### Gráfico de Barras com Seaborn
