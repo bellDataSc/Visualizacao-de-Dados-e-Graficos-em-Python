@@ -17,6 +17,31 @@ Desenvolvi este material como parte do meu portfólio de projetos em Ciência de
 
 Espero que este conteúdo seja útil para você. 
 
+## Ferramentas Utilizadas
+Python
+Matplotlib
+Seaborn
+Plotly
+PIL (Pillow)
+
+## Links Úteis
+Documentação do Matplotlib
+https://matplotlib.org/stable/contents.html
+
+Documentação do Seaborn
+https://seaborn.pydata.org/
+
+Documentação do Plotly
+https://plotly.com/python/
+
+Autor
+Este projeto foi desenvolvido por Isabel Gonçalves Cruz como parte do meu portfólio de Ciência de Dados no KAGGLE. Sinta-se à vontade para entrar em contato ou contribuir!
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
 ## Exemplos de Gráficos
 
 Aqui estão alguns exemplos dos gráficos que você encontrará no notebook:
