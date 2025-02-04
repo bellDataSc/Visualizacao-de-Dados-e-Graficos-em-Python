@@ -47,7 +47,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 Aqui estão alguns exemplos dos gráficos que você encontrará no notebook:
 
 ### Gráfico de Linha com Matplotlib
-![Gráfico de Linha](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/main/Matplotlib.py)
+![Gráfico de Linha](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/main/__results___1_0.png?raw=true)
 *(Imagem gerada com Matplotlib)*
 
 ### Gráfico de Barras com Seaborn
