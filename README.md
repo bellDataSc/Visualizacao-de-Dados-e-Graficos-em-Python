@@ -48,10 +48,12 @@ Aqui estão alguns exemplos dos gráficos que você encontrará no notebook:
 
 ### Gráfico de Linha com Matplotlib
 ![Gráfico de Linha](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/main/__results___1_0.png?raw=true)
+
 *(Imagem gerada com Matplotlib)*
 
 ### Gráfico de Barras com Seaborn
-![Gráfico de Barras](https://via.placeholder.com/600x400.png?text=Gráfico+de+Barras+Seaborn)
+![Gráfico de Barras](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/381030cbd17bd80c51d8519fed0f2cc2450eafc8/__results___4_0.png?raw=true)
+
 *(Imagem gerada com Seaborn)*
 
 ### Gráfico Interativo com Plotly
