@@ -57,5 +57,5 @@ Aqui estão alguns exemplos dos gráficos que você encontrará no notebook:
 *(Imagem gerada com Seaborn)*
 
 ### Gráfico Interativo com Plotly
-![Gráfico Interativo](https://via.placeholder.com/600x400.png?text=Gráfico+Interativo+Plotly)
+![Gráfico Interativo](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/c8400eccb652dd0d40396ea94ca8dce1de9b749d/imagens/Plotly.PNG)
 *(Imagem gerada com Plotly)*
