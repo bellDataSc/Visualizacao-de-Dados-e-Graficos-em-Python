@@ -47,7 +47,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 Aqui estão alguns exemplos dos gráficos que você encontrará no notebook:
 
 ### Gráfico de Linha com Matplotlib
-![Gráfico de Linha](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/main/__results___1_0.png?raw=true)
+![Gráfico de Linha](https://github.com/bellDataSc/Visualizacao-de-Dados-e-Graficos-em-Python/blob/c5696ed68852725c4268fa11d00a214fa0d7173b/imagens/__results___1_0.png)
 
 *(Imagem gerada com Matplotlib)*
 
